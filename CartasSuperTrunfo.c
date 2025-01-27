@@ -98,6 +98,8 @@ int main() {
 
     estado = "B";
 
+    printf("\nCadatre cidades para o estado %c\n", estado);
+
     printf("\nDigite o nome da cidade 1:");
     scanf("%s", &nomecidade[0][0]);
 
@@ -162,6 +164,8 @@ int main() {
     scanf("%d", &pturisticos[0][3]);
 
     estado = 'C';
+
+    printf("\nCadatre cidades para o estado %c\n", estado);
 
     printf("\nDigite o nome da cidade 1:");
     scanf("%s", &nomecidade[0][0]);
@@ -228,6 +232,8 @@ int main() {
     
     estado = 'D';
 
+    printf("\nCadatre cidades para o estado %c\n", estado);
+
     printf("\nDigite o nome da cidade 1:");
     scanf("%s", &nomecidade[0][0]);
 
@@ -292,6 +298,8 @@ int main() {
     scanf("%d", &pturisticos[0][3]);
 
     estado = 'E';
+
+    printf("\nCadatre cidades para o estado %c\n", estado);
 
     printf("\nDigite o nome da cidade 1:");
     scanf("%s", &nomecidade[0][0]);
@@ -358,6 +366,8 @@ int main() {
 
     estado = 'F';
 
+    printf("\nCadatre cidades para o estado %c\n", estado);
+
     printf("\nDigite o nome da cidade 1:");
     scanf("%s", &nomecidade[0][0]);
 
@@ -423,6 +433,8 @@ int main() {
 
     estado = 'G';
 
+    printf("\nCadatre cidades para o estado %c\n", estado);
+
     printf("\nDigite o nome da cidade 1:");
     scanf("%s", &nomecidade[0][0]);
 
@@ -487,6 +499,8 @@ int main() {
     scanf("%d", &pturisticos[0][3]);
 
     estado ='H';
+
+    printf("\nCadatre cidades para o estado %c\n", estado);
 
     printf("\nDigite o nome da cidade 1:");
     scanf("%s", &nomecidade[0][0]);
